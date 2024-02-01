@@ -1,0 +1,16 @@
+:root {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  font-family: 'Cute Font', sans-serif !important;
+  font-size: large;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #282828;
+  color: white;
+}
